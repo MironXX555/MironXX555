@@ -4,7 +4,7 @@ and games!
 - 🐍 I’m currently learning python!
 - 💞️ I work alone, but I can call my friends!
 - 📫 How to reach me ...
-- 😄 Pronouns: He / Her
+- 😄 Pronouns: He
 - ⚡ Fun fact: What should I write here?
 
 <!---
